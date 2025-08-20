@@ -1,3 +1,8 @@
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/153566279?v=4" width="200" style="border-radius:50%">
+</p>
+
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
@@ -38,16 +43,15 @@ Let's connect and build something awesome together!
 - 🎯 My Goal: To become an **AWS Cloud Engineer** ☁️  
 - 💬 Ask me about **C++ and Python**  
 - 🏆 I participated in **ACPC (Arab Collegiate Programming Contest)** ![ACPC Badge](https://img.shields.io/badge/ACPC-Participant-blue?style=flat&logo=codeforces)  
-- 📄 Know more about me on [LinkedIn](https://linkedin.com/in/your-link)  
+- 📄 Know more about me on [LinkedIn](https://linkedin.com/in/mohamed-yehia-3297aa323)  
 - 😄 Pronouns: **He/Him**  
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-link" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="80" /></a>
-<a href="https://twitter.com/your-handle" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%23000000?logo=x&logoColor=white" width="80" /></a>
-<a href="https://medium.com/@your-handle" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" width="80" /></a>
+<a href="https://linkedin.com/in/mohamed-yehia-3297aa323" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="80" /></a>
+<a href="mailto:midoyehia938@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width="80" /></a>
 </p>
 
 ---
@@ -79,4 +83,4 @@ Let's connect and build something awesome together!
 
 ---
 
-<p align="right"> Created with ❤️ by <a href="https://linkedin.com/in/your-link">Mohamed Yehia</a></p>
+<p align="right"> Created with ❤️ by <a href="https://linkedin.com/in/mohamed-yehia-3297aa323">Mohamed Yehia</a></p>
