@@ -30,7 +30,7 @@ Let's connect and build something awesome together!
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/21/5a/e4/215ae4b5c5e4583df415d7d7fbd1ab4d.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🤖 My Interests: **Artificial Intelligence & Robotics**  
 - 🔭 I’m Currently Preparing For **Cloud Computing**  
@@ -38,15 +38,16 @@ Let's connect and build something awesome together!
 - 🎯 My Goal: To become an **AWS Cloud Engineer** ☁️  
 - 💬 Ask me about **C++ and Python**  
 - 🏆 I participated in **ACPC (Arab Collegiate Programming Contest)** ![ACPC Badge](https://img.shields.io/badge/ACPC-Participant-blue?style=flat&logo=codeforces)  
-- 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/mohamed-yehia-3297aa323)  
+- 📄 Know more about me on [LinkedIn](https://linkedin.com/in/your-link)  
+- 😄 Pronouns: **He/Him**  
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-yehia-3297aa323" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="80" /></a>
-<a href="mailto:midoyehia938@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width="80" /></a>
+<a href="https://linkedin.com/in/your-link" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="80" /></a>
 <a href="https://twitter.com/your-handle" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%23000000?logo=x&logoColor=white" width="80" /></a>
+<a href="https://medium.com/@your-handle" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" width="80" /></a>
 </p>
 
 ---
@@ -78,4 +79,4 @@ Let's connect and build something awesome together!
 
 ---
 
-<p align="right"> Created with ❤️ by <a href="https://www.linkedin.com/in/mohamed-yehia-3297aa323">Mohamed Yehia</a></p>
+<p align="right"> Created with ❤️ by <a href="https://linkedin.com/in/your-link">Mohamed Yehia</a></p>
